@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mrinal</h1>
 <h3 align="center">I'm currently a penultimate Computer Science undergraduate at NUS.</h3>
 
+- 🔭 I’m currently working on **Web development using Elixir and Phoenix**
+- 👯 I’m looking to collaborate on **Web development, and NLP related projects**
 - 🌱 I’m currently learning **Computer Vision, and Artificial Intelligence**
 
 <h3 align="left">Connect with me:</h3>
